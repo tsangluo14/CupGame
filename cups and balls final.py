@@ -20,9 +20,9 @@ sc=turtle.Screen()
 sc.tracer(0)
 sc.bgcolor('linen')
 
+cup_scale = 1.1
 cup_order=[0,1,2] #order of c1, c2, and c3
 cup_positions=[0,1,2] #c1 position, c2 position, c3 position
-cup_scale = 1.1
 
 #cup_order[0] gives the cup at first position
 #cup_order[1] gives the cup at second position
