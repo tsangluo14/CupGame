@@ -1,7 +1,7 @@
 # CupGame
 Remember the classic cup game -- 3 cups randomly move, then you guess which cup the ball is under? This project implements the classic game including drawing, animation and gameplay using Python turtle.
 
-https://github.com/user-attachments/assets/b78f8f03-9d63-4052-bd14-5b65b2b79ebf
+https://github.com/user-attachments/assets/786e70a2-f33b-438a-89b7-f4de5dc6d514
 
 ## Drawing
 A total of 5 turles are used for separate drawing of three cups (with shade and shadow!), ball, background, helper text, and firework at the end of the game.
