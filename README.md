@@ -4,7 +4,7 @@ Remember the classic cup game -- 3 cups randomly move, then you guess which cup 
 https://github.com/user-attachments/assets/b78f8f03-9d63-4052-bd14-5b65b2b79ebf
 
 ## Drawing
-A total of 5 turles are used for separate drawing of three cups, ball, background, helper text, and firework at the end of the game.
+A total of 5 turles are used for separate drawing of three cups (with shade and shadow!), ball, background, helper text, and firework at the end of the game.
 
 ## Ball Tracking
 Three turtles, c1, c2, and c3, represent the three cups. Two arrays, cup_order and cup_positions, are used to track which cup is at the current position v.s. position of the current cup.
